@@ -1,0 +1,50 @@
+_repo: Casanova-s-Homecoming_9310
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Paul, Cedar
+    alias: Davenport, Gertrude Mary
+    birthdate: 1880
+    deathdate: 1972
+    gutenberg_agent_id: '390'
+    url: http://www.gutenberg.org/2009/agents/390
+    wikipedia: http://en.wikipedia.org/wiki/Cedar_Paul
+  - agent_name: Paul, Eden
+    aliases:
+    - Paul, Maurice Eden
+    - Paul, M. Eden (Maurice Eden)
+    birthdate: 1865
+    deathdate: 1944
+    gutenberg_agent_id: '389'
+    url: http://www.gutenberg.org/2009/agents/389
+    wikipedia: http://en.wikipedia.org/wiki/Eden_Paul
+creator:
+  author:
+    agent_name: Schnitzler, Arthur
+    birthdate: 1862
+    deathdate: 1931
+    gutenberg_agent_id: '3010'
+    url: http://www.gutenberg.org/2009/agents/3010
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Schnitzler
+description: 'A fantastic fictionalisation of the life of one of the most famous womanisers
+  in history: Giacomo Girolamo Casanova de Seingalt, written by Austrian author and
+  dramatist Dr. Arthur Schnitzler.'
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9310'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Casanova, Giacomo, 1725-1798 -- Fiction'
+- !lcsh 'Sex customs -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PT'
+- !lcsh 'Europe -- Fiction'
+- !lcsh 'Biographical fiction'
+- GITenberg
+title: Casanova's Homecoming
+url: http://www.gutenberg.org/ebooks/9310
